@@ -94,7 +94,7 @@ The classes for text colors are:
 # 1.7 Contextual Classes
 1. can be used to color the whole table (<table>),  the table rows (<tr>) or table cells (<td>).
 
-# List of contextual classes
+# 1.7.1 List of contextual classes
 1. ``` .table-primary ``` 	Blue: Indicates an important action
 2. ``` .table-success	Green: Indicates a successful or positive action
 3. ``` .table-danger ```	Red: Indicates a dangerous or potentially negative action
