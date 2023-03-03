@@ -92,7 +92,7 @@ The classes for text colors are:
 2. ``` .table-borderless ```
 
 # 1.7 Contextual Classes
-1. can be used to color the whole table (<table>),  the table rows (<tr>) or table cells (<td>).
+1. can be used to color the whole table ``` <table> ```,  the table rows ``` <tr> ``` or table cells ``` <td> ```.
 
 List of contextual classes
 
