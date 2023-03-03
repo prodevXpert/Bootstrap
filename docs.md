@@ -33,16 +33,16 @@
 # Bootstrap Text colors
 
 The classes for text colors are: 
-.text-muted, 
-.text-primary, 
-.text-success, 
-.text-info, 
-.text-warning, 
-.text-danger, 
-.text-secondary, 
-.text-white, 
-.text-dark, 
-.text-body 
+1. .text-muted, 
+2. .text-primary, 
+3. .text-success, 
+4. .text-info, 
+5. .text-warning, 
+6. .text-danger, 
+7. .text-secondary, 
+8. .text-white, 
+9. .text-dark, 
+10. .text-body 
 
 (default body color/often black) and 
 .text-light:
